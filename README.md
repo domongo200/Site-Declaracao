@@ -10,13 +10,13 @@ Aqui estão algumas imagens do site em funcionamento, destacando o design e as p
 ![Seção Inicial e Contador](img/screenshot1.png)
 
 ### Galeria de Fotos e Minhas palavras
-![Galeria de Fotos e Minhas palavras](img/screenshot2.png-2.png)
+![Galeria de Fotos e Minhas palavras](img/screenshot2.png)
 
 ###  Player de Música e Linha do tempo
-![Player de Música e Linha do tempo](img/screenshot3.png-3.png)
+![Player de Música e Linha do tempo](img/screenshot3.png)
 
 ### Pedido Interativo
-![Pedido Interativo](img/screenshot4.png-4.png)
+![Pedido Interativo](img/screenshot4.png)
 
 ## ✨ Funcionalidades (Features)
 
