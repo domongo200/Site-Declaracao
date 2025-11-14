@@ -16,7 +16,7 @@ Aqui estão algumas imagens do site em funcionamento, destacando o design e as p
 ![Player de Música e Linha do tempo](img/screenshot3.png)
 
 ### Pedido Interativo
-![Pedido Interativo](img/screenshot4.png)
+![Pedido Interativo](img/screenshott4.png)
 
 ## ✨ Funcionalidades (Features)
 
